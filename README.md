@@ -1,2 +1,2 @@
-# My Programming Portfolio
+# SidPortfolio
 My programming portfolio.
