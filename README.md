@@ -1,2 +1,2 @@
-# Siddhant Maji - Programming Portfolio
+# Siddhant Maji | Programming Portfolio
 My programming portfolio.
